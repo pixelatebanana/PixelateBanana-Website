@@ -1,0 +1,32 @@
+{
+  "work": [
+    {
+      "slug": "tetst",
+      "title": "tetst",
+      "category": "testical",
+      "concept": false,
+      "seed": 28,
+      "scenario": "wcecwc",
+      "challenge": "cwcwc",
+      "strategy": "cwecwcwec",
+      "execution": "wcecwcw",
+      "deliverables": [
+        "wcwecwecew"
+      ],
+      "value": "cwcwcewc",
+      "url": "https://pixelatebanana-test-2.vercel.app/",
+      "image": "/uploads/mwacudu6-dc19381c29.png",
+      "images": [
+        "/uploads/mwacuduz-4fe9b54f78.png",
+        "/uploads/mwacudvl-12f2ffcf75.png",
+        "/uploads/mwacudwi-def40e29fb.jpg",
+        "/uploads/mwacudxm-c08f5bbbcb.jpg"
+      ]
+    }
+  ],
+  "posts": [],
+  "removed": {
+    "work": [],
+    "posts": []
+  }
+}
