@@ -22,6 +22,26 @@
         "/uploads/mwacudwi-def40e29fb.jpg",
         "/uploads/mwacudxm-c08f5bbbcb.jpg"
       ]
+    },
+    {
+      "slug": "live-test-1",
+      "title": "live test 1",
+      "category": "live test 1",
+      "concept": false,
+      "seed": 33,
+      "scenario": "live test 1",
+      "challenge": "live test 1",
+      "strategy": "live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1",
+      "execution": "live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1",
+      "deliverables": [
+        "live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1l"
+      ],
+      "value": "live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1",
+      "url": "https://pixelatebanana-test-2.vercel.app/",
+      "image": "/uploads/mwefxco2-9ddd681c14.png",
+      "images": [
+        "/uploads/mwefxfab-bb7879cf5a.jpg"
+      ]
     }
   ],
   "posts": [],
