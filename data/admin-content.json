@@ -44,7 +44,18 @@
       ]
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "slug": "live-test-1",
+      "title": "live test 1",
+      "date": "2026-11-17",
+      "excerpt": "live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1",
+      "body": [
+        "live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1live test 1"
+      ],
+      "image": "/uploads/mwefzlf8-6365e014fd.jpg"
+    }
+  ],
   "removed": {
     "work": [],
     "posts": []
