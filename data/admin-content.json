@@ -57,7 +57,9 @@
     }
   ],
   "removed": {
-    "work": [],
+    "work": [
+      "fruitly-store-redesign"
+    ],
     "posts": []
   }
 }
