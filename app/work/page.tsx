@@ -7,7 +7,6 @@ export default function Work() {
   return (
     <>
       <div className="wrap page-pad"><h1 className="big">Case<br />studies.</h1>
-        <p className="note" role="note">These are concept projects created to demonstrate our process.</p>
         <div className="cards">{WORK.map((w) => <WorkCard key={w.slug} w={w} />)}</div>
       </div>
       <CtaBand label="work_index" />
