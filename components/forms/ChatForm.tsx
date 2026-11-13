@@ -42,7 +42,7 @@ export default function ChatForm({ source = 'chat' }: { source?: string }) {
       <Field id="message" label="Message" req error={errors.message}><textarea {...p('message')} rows={5} maxLength={2000} /></Field>
       <input ref={hp} className="hp" tabIndex={-1} autoComplete="off" aria-hidden="true" name="website" defaultValue="" />
       <button className="btn" type="submit" disabled={status === 'sending'}>{status === 'sending' ? '⏳ Sending…' : 'Send message 💬'}</button>
-      <div aria-live="polite">{status === 'error' && <div className="err" role="alert">❌ Something went wrong. Please try again or email hello@pixelatebanana.com.</div>}</div>
+      <div aria-live="polite">{status === 'error' && <div className="err" role="alert">❌ Something went wrong. Please try again or email connect@pixelatebanana.com.</div>}</div>
     </form>
   );
 }
