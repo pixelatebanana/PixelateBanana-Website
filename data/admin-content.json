@@ -1,5 +1,32 @@
 {
-  "work": [],
+  "work": [
+    {
+      "slug": "forno-modern-italian-pizzeria-website",
+      "title": "Forno – Modern Italian Pizzeria Website",
+      "category": "Restaurant / Food & Hospitality",
+      "concept": false,
+      "seed": 58,
+      "scenario": "A modern Italian pizzeria needed a professional online presence to showcase its food, establish its brand identity, and make it easier for customers to explore its offerings.",
+      "challenge": "Creating an appetizing and memorable digital experience.\n\nPresenting food offerings in an attractive format.\n\nBuilding a consistent restaurant brand identity.\n\nMaking website navigation simple and intuitive.",
+      "strategy": "Develop a visually engaging restaurant website with Italian-inspired branding, food-focused imagery, clear content sections, and a responsive browsing experience.",
+      "execution": "Designed and developed a modern restaurant interface with food-centric visuals, structured content, responsive layouts, and intuitive navigation.",
+      "deliverables": [
+        "Custom restaurant website",
+        "Food and menu presentation",
+        "Responsive user interface",
+        "Brand-focused visual design",
+        "Intuitive navigation"
+      ],
+      "value": "Strengthen restaurant branding, improve online visibility, showcase food offerings, and encourage customer inquiries and visits.",
+      "url": "https://pizza-web-roan.vercel.app/",
+      "image": "/uploads/mwg15hu4-e6a4422618.png",
+      "images": [
+        "/uploads/mwg15lpr-793dc4159b.png",
+        "/uploads/mwg15o9w-11e9afa319.png",
+        "/uploads/mwg15rje-7d19b3b076.png"
+      ]
+    }
+  ],
   "posts": [
     {
       "slug": "live-test-1",
