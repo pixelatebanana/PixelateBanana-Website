@@ -30,7 +30,7 @@ export function parseWork(r: Record<string, unknown>): R<Work> {
   const url = cleanUrl(r.url);
   if (!url) return { error: url === null ? 'Enter a valid website URL (for example https://example.com).' : 'Website URL is required for a case study.' };
   const image = cleanImage(r.image);
-  const images = (Array.isArray(r.images) ? r.images : []).map(cleanImage).filter(Boolean).slice(0, 12);
+  const images = (Array.isArray(r.images) ? r.images : []).map(cleanImage).filter(Boolean).slice(0, 3);
   const seed = ([...slug].reduce((a, c) => a + c.charCodeAt(0), 0) % 90) + 4;
   return { item: { slug, title, category, concept: r.concept !== false, seed, scenario, challenge, strategy, execution, deliverables, value, url, ...(image ? { image } : {}), ...(images.length ? { images } : {}) } };
 }

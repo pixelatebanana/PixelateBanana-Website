@@ -91,7 +91,9 @@ export default function AdminPanel({ work, posts, storage }: { work: Row[]; post
           <label>Title *<input name="title" maxLength={80} required /></label>
           <label>Category *<input name="category" maxLength={60} required /></label>
           <label>Image (optional: PNG, JPG, WebP or GIF, up to 4 MB)<input name="image" type="file" accept="image/png,image/jpeg,image/webp,image/gif" /></label>
-          <label>More pictures for the Images &amp; mockups section (optional, you can choose several)<input name="images" type="file" multiple accept="image/png,image/jpeg,image/webp,image/gif" /></label>
+          <label>Images &amp; mockups: picture 1 (optional, up to 4 MB)<input name="images" type="file" accept="image/png,image/jpeg,image/webp,image/gif" /></label>
+          <label>Images &amp; mockups: picture 2 (optional, up to 4 MB)<input name="images" type="file" accept="image/png,image/jpeg,image/webp,image/gif" /></label>
+          <label>Images &amp; mockups: picture 3 (optional, up to 4 MB)<input name="images" type="file" accept="image/png,image/jpeg,image/webp,image/gif" /></label>
           <label>Website URL *<input name="url" type="url" inputMode="url" placeholder="https://example.com" maxLength={300} required /></label>
           <label><input type="checkbox" name="concept" defaultChecked style={{ width: 'auto', marginRight: 8 }} />Concept project (shows the disclaimer)</label>
           <label>Business scenario *<textarea name="scenario" rows={3} maxLength={1000} required /></label>

@@ -20,7 +20,7 @@ export default function CaseStudy({ w }: { w: Work }) {
         <Block title="Proposed strategy"><p>{w.strategy}</p></Block>
         <Block title="Creative & technical execution"><p>{w.execution}</p></Block>
         <Block title="Final deliverables"><ul>{w.deliverables.map((d) => <li key={d}>{d}</li>)}</ul></Block>
-        <Block title="Images & mockups"><div className="mock">{[1, 2, 3].map((n) => <PixelArt key={n} seed={w.seed * 10 + n} label={`${w.title} mockup ${n}`} />)}{w.images?.map((src, i) => <UploadedImage key={src} src={src} label={`${w.title} picture ${i + 1}`} />)}</div></Block>
+        <Block title="Images & mockups"><div className="mock" style={w.images?.length ? { gridTemplateColumns: 'repeat(auto-fill, minmax(260px, 1fr))' } : undefined}>{w.images?.length ? w.images.slice(0, 3).map((src, i) => <UploadedImage key={src} src={src} label={`${w.title} picture ${i + 1}`} />) : [1, 2, 3].map((n) => <PixelArt key={n} seed={w.seed * 10 + n} label={`${w.title} mockup ${n}`} />)}</div></Block>
         <Block title="Intended business value"><p>{w.value}</p></Block>
       </article>
       {/* 10. Inquiry CTA */}
