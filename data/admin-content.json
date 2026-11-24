@@ -80,6 +80,35 @@
         "/uploads/mwg1p0f4-37372a2750.png",
         "/uploads/mwg1p1yt-d675029700.png"
       ]
+    },
+    {
+      "slug": "dentivora-modern-dental-clinic-patient-booking-website",
+      "title": "Dentivora – Modern Dental Clinic & Patient Booking Website",
+      "category": "Healthcare / Dentistry / Medical Services",
+      "concept": false,
+      "seed": 6,
+      "scenario": "A modern dental clinic needed a professional digital platform to showcase its dental treatments, build patient trust, educate visitors about oral health, and simplify appointment booking.",
+      "challenge": "Making dental services easy to understand.\n\nBuilding trust through a patient-focused experience.\n\nReducing friction in appointment booking.\n\nProviding accessible treatment information and pricing.\n\nAddressing common patient questions outside clinic hours.",
+      "strategy": "Develop a modern, patient-centric dental website combining educational content, treatment information, transparent pricing, online appointment booking, and an AI-powered Smile Assistant.",
+      "execution": "Designed and developed a clean, responsive dental website with educational dental visuals, dedicated treatment sections, dentist and clinic navigation, online booking functionality, and an AI-powered assistant for patient guidance.",
+      "deliverables": [
+        "Custom dental clinic website",
+        "Dental treatments showcase",
+        "Online appointment booking interface",
+        "AI-powered Smile Assistant",
+        "Dental education section",
+        "Treatment pricing presentation",
+        "Patient information and clinic sections",
+        "Responsive user interface"
+      ],
+      "value": "Strengthen clinic credibility, attract potential patients, increase appointment bookings, reduce administrative workload through automated patient assistance, and improve the overall patient experience.",
+      "url": "https://dentivora-web.vercel.app/",
+      "image": "/uploads/mwue0sgm-1504cc3acb.png",
+      "images": [
+        "/uploads/mwue0uet-244f29818a.png",
+        "/uploads/mwue0wlf-e013174d3b.png",
+        "/uploads/mwue0ymy-f4f123e287.png"
+      ]
     }
   ],
   "posts": [
